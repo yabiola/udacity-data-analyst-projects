@@ -5,7 +5,7 @@ The project demonstrates my ability to investigate any given dataset, perform da
 More about the No show appointmnets project can be found in the read me file on the project folder.
 
 
-The second project is called WeRateDogs Twitter Archive - Data Wrangling and Analysis project.
+The second project is called **WeRateDogs Twitter Archive - Data Wrangling and Analysis project**.
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. We had to gather 3 types of data format datasets using different methods. 
 1. csv file 
 2. tsv file
@@ -14,6 +14,6 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 After gathering, I assessed the data, cleaned the data and stored the cleaned data. Then analyzed, exlpored via visualizations.
 
 
-The third project is called Loan Data from Prosper - Data Visualization Project (Exploratory and Explanatory Data Analysis)
+The third project is called **Loan Data from Prosper - Data Visualization Project (Exploratory and Explanatory Data Analysis)**
 The dataset contains information on peer to peer loans facilitated by Prosper credit company.
 The topic i explored in this dataset is **What factors affects the borrower's APR or interest rate?**
