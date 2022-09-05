@@ -1,0 +1,17 @@
+List of references used to perform my project (no show appointments)
+
+1. https://www.geeksforgeeks.org/convert-floats-to-integers-in-a-pandas-dataframe/
+
+2. https://www.geeksforgeeks.org/convert-the-column-type-from-string-to-datetime-format-in-pandas-dataframe/
+
+3. https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/#:~:text=To%20drop%20a%20row%20or%20column%20in%20a%20dataframe%2C%20you,method%20in%20the%20docs%20here.&text=Rows%20are%20labelled%20using%20the,Columns%20are%20labelled%20using%20names.
+
+4. https://mybinder.org/v2/gh/samedhaa/investigating-a-dataset-no-show-appointments-udacity-project2/master
+
+5. https://www.kaggle.com/datasets/joniarroba/noshowappointments
+
+6. https://seaborn.pydata.org/examples/index.html
+
+7. https://www.quora.com/About-converting-a-categorical-variable-into-a-numeric-variable-When-is-it-better-to-use-dummy-variables-instead-of-a-single-numerical-variable
+
+8. https://www.stackvidhya.com/plot-correlation-matrix-in-pandas-python/
